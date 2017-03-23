@@ -3,7 +3,7 @@ repository for free code camp
 
 HI Ya'll!
 
-I am a creative idealist from TX with an MBA
+I am a creative idealist from TX with an MBA.
 I am venturing into coding and software development. 
 I am new to the field and am studying through Free Code Camp. 
 I am excited to get started on projects and work with others to create great work.
